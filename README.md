@@ -1,1 +1,1 @@
-JAVA example swing applicatio
+JAVA example swing application
